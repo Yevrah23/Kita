@@ -8,6 +8,6 @@ var loggedIn = '0';
 
 
 module.exports = {
-    'users' : Users,
+    'users' : Users, 
     'loggedIn' : loggedIn
 }
